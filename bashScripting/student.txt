@@ -1,0 +1,10 @@
+Alice Math 85 Pass
+Bob Science 42 Fail
+Charlie Math 95 Pass
+Dave History 70 Pass
+Eve Science 35 Fail
+Frank Math 60 Pass
+Grace History 88 Pass
+Hank Science 92 Pass
+EOF
+
